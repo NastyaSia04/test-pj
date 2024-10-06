@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "type": "module",
   "homepage": "https://github.com/NastyaSia04/test-pj",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
   "keywords": "test-pj",
   "description": "Мой первый проект на Хекслете",
   "main": "index.js",
