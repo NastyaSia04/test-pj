@@ -5,7 +5,7 @@
   "homepage": "https://github.com/NastyaSia04/test-pj",
   "keywords": "test-pj",
   "description": "Мой первый проект на Хекслете",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
