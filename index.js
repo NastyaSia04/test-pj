@@ -1,4 +1,4 @@
-console.log("Hello, Hexlet!");
+
 
 
 const fn = (a, b) => {
@@ -9,3 +9,7 @@ const fn = (a, b) => {
 import _ from "lodash";
 
 console.log(_.last(['one', 'two']));
+
+
+import app from './src/index.js';
+app();
