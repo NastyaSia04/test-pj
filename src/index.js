@@ -1,1 +1,1 @@
-export default () => console.log("Hello, Hexlet!");
+export default () => console.log('Hello, Hexlet!');
